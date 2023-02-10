@@ -48,7 +48,7 @@
 * Разработка [div-3 раундов](https://codeforces.com/contests/writer/myav) на Codeforces
 
 **2022**
-* Участник четвертьфинала NEERC ICPC
+* Участник четвертьфинала NERC ICPC
 * Соавтор [курса по олимпиадному программированию](https://stepik.org/course/115743/promo#toc) для Школы Космонавтики
 * Адаптер в университете ИТМО
  
