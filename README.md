@@ -1,4 +1,4 @@
-## Кристина Бернятцкая
+## Кристина Кравцова
 Студентка ИТМО, 2 курс
 
 [telegram](https://t.me/whoismyav)/[GitHub](https://github.com/themyav)/[Codeforces](https://codeforces.com/profile/myav)
