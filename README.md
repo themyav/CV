@@ -1,14 +1,19 @@
 ## Кристина Кравцова
-Студентка ИТМО, 3 курс
 
-[telegram](https://t.me/whoismyav)/[GitHub](https://github.com/themyav)/[Codeforces](https://codeforces.com/profile/myav)
-
+**Желаемая должность**: стажер backed-разработчик на Java, Python / стажер frontend разработчик.
 ### О себе
 
 * **Дата рождения:** 14.08.2003
 * **Проживаю:** г. Санкт-Петербург
 * **Гражданство:** Россия
 
+Готова к очному и/или удаленному формату, командировкам. Не готова к переезду.
+
+### Контактные данные:
+* Email: Myavochka119@gmail.com
+* Telegram: @whoismyav
+* Github: themyav
+* Codeforces: myav
 
 ### Образование
 
@@ -37,21 +42,28 @@
 * HTML
 * LaTeX
 
+### Владение языками
+* Русский &mdash; носитель
+* Английский &mdash; B2+
+
 ### Проекты
-* [Конструктор электрических цепей](https://github.com/themyav/circuits_constructor)
+* Конструктор электрических цепей &mdash; веб-приложение для построения схем электрических цепей и моделирования их работы.
+  https://github.com/themyav/circuits_constructor
 * @SummyGPTBot &mdash; телеграм-бот на основе ChatGPT для получения краткой сводки сообщений в чате.
 
 ### Прочее
 
 **2021**
-* Призер НТО по профилю ["Большие данные и Машинное обучение](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
+* Призер НТО по профилю ["Большие данные и Машинное обучение"](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
 * Призер НТО по профилю ["Технологии VR"](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/vr-tekhnologii-virtualnoy-realnosti/)
 
 **2021-настоящее время**
-* Разработка [div-3 раундов](https://codeforces.com/contests/writer/myav) на Codeforces
+* Разработка и тестирование [div-3 раундов](https://codeforces.com/contests/writer/myav) на Codeforces
 
 **2022**
 * Участник четвертьфинала NERC ICPC
 * Соавтор [курса по олимпиадному программированию](https://stepik.org/course/115743/promo#toc) для Школы Космонавтики
 * Адаптер в университете ИТМО
- 
+
+**2023**
+* Участник сборной по спортивному программированию университета ИТМО
